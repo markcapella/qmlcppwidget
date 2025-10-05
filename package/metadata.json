@@ -6,7 +6,7 @@
     "KPlugin": {
         "Id": "inc.skyrmion.qmlcppwidget",
         "Name": "QmlCppWidget",
-        "Version": "v2025-10-03.02",
+        "Version": "v2025-10-05",
 
         "Description": "Plasma 6 Hello World desktop widget with Qml + Cpp.",
         "Icon": "audio-on",
@@ -18,7 +18,7 @@
         }],
 
         "Website":
-            "https://github.com/markcapella/QmlCppWidget",
+            "https://github.com/markcapella/qmlcppwidget",
         "BugReportUrl":
             "https://github.com/markcapella/qmlcppwidget/issues/new"
     }
