@@ -1,6 +1,6 @@
 
 # qmlcppwidget
-!['install'](https://github.com/markcapella/qmlcppwidget/blob/qmlcppwidget.png)
+!['install'](https://github.com/markcapella/qmlcppwidget/qmlcppwidget.png)
 
 ## Description.
 Plasma 6 Hello World desktop widget with Qml, & a Cpp Plugin.
@@ -20,7 +20,7 @@ Plasma 6 Hello World desktop widget with Qml, & a Cpp Plugin.
     sudo make install
 
 ### Then, mouse to the Add or Manage Widgets panel, & drop qmlcppwidget onto your desktop.
-!['installExplorer'](https://github.com/markcapella/qmlcppwidget/blob/qmlcppwidgetExplorer.png)
+!['installExplorer'](https://github.com/markcapella/qmlcppwidget/qmlcppwidgetExplorer.png)
 
 ### Uninstall the widget from Plasmas Widget Explorer.
     sudo make uninstall
