@@ -1,0 +1,25 @@
+
+{
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0",
+
+    "KPlugin": {
+        "Id": "inc.skyrmion.qmlcppwidget",
+        "Name": "QmlCppWidget",
+        "Version": "v2025-10-03.02",
+
+        "Description": "Plasma 6 Hello World desktop widget with Qml + Cpp.",
+        "Icon": "audio-on",
+        "Category": "Windows and Tasks",
+
+        "Authors": [{
+            "Name": "Mark Capella",
+            "Email": "markjamescapella@proton.me"
+        }],
+
+        "Website":
+            "https://github.com/markcapella/QmlCppWidget",
+        "BugReportUrl":
+            "https://github.com/markcapella/qmlcppwidget/issues/new"
+    }
+}
